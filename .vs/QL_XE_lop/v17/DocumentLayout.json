@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|d:\\cs464s\\ql_xe_lop\\ql_xe_lop\\ql_xe_kt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|solutionrelative:ql_xe_kt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE384A5-2760-4E64-86C3-829674CA72DE}|QL_MonHoc\\QL_MonHoc.csproj|D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\ql_monhoc\\danhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE384A5-2760-4E64-86C3-829674CA72DE}|QL_MonHoc\\QL_MonHoc.csproj|solutionrelative:ql_monhoc\\danhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\ql_xe_kt\\quanlyxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|solutionrelative:ql_xe_kt\\quanlyxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\ql_xe_kt\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|solutionrelative:ql_xe_kt\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\ql_xe_kt\\xedulich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|solutionrelative:ql_xe_kt\\xedulich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\ql_xe_kt\\xechohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E483A3-4F31-4473-86EC-A50DB778BFEB}|QL_XE_KT\\QL_XE_KT.csproj|solutionrelative:ql_xe_kt\\xechohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67261F0B-DF77-4B14-9C71-0885A618BD66}|QL_XE_lop\\QL_XE_lop.csproj|D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\ql_xe_lop\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67261F0B-DF77-4B14-9C71-0885A618BD66}|QL_XE_lop\\QL_XE_lop.csproj|solutionrelative:ql_xe_lop\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67261F0B-DF77-4B14-9C71-0885A618BD66}|QL_XE_lop\\QL_XE_lop.csproj|D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\ql_xe_lop\\danhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67261F0B-DF77-4B14-9C71-0885A618BD66}|QL_XE_lop\\QL_XE_lop.csproj|solutionrelative:ql_xe_lop\\danhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE384A5-2760-4E64-86C3-829674CA72DE}|QL_MonHoc\\QL_MonHoc.csproj|D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\ql_monhoc\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE384A5-2760-4E64-86C3-829674CA72DE}|QL_MonHoc\\QL_MonHoc.csproj|solutionrelative:ql_monhoc\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyXe.cs",
+              "DocumentMoniker": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\QuanLyXe.cs",
+              "RelativeDocumentMoniker": "QL_XE_KT\\QuanLyXe.cs",
+              "ToolTip": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\QuanLyXe.cs",
+              "RelativeToolTip": "QL_XE_KT\\QuanLyXe.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:05:01.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XeChoHang.cs",
+              "DocumentMoniker": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\XeChoHang.cs",
+              "RelativeDocumentMoniker": "QL_XE_KT\\XeChoHang.cs",
+              "ToolTip": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\XeChoHang.cs",
+              "RelativeToolTip": "QL_XE_KT\\XeChoHang.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:49:02.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XeDuLich.cs",
+              "DocumentMoniker": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\XeDuLich.cs",
+              "RelativeDocumentMoniker": "QL_XE_KT\\XeDuLich.cs",
+              "ToolTip": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\XeDuLich.cs",
+              "RelativeToolTip": "QL_XE_KT\\XeDuLich.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:29:14.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Xe.cs",
+              "DocumentMoniker": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\Xe.cs",
+              "RelativeDocumentMoniker": "QL_XE_KT\\Xe.cs",
+              "ToolTip": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\Xe.cs",
+              "RelativeToolTip": "QL_XE_KT\\Xe.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAhwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:17:44.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\Program.cs",
+              "RelativeDocumentMoniker": "QL_XE_KT\\Program.cs",
+              "ToolTip": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_KT\\Program.cs",
+              "RelativeToolTip": "QL_XE_KT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:17:17.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhSach.cs",
+              "DocumentMoniker": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_MonHoc\\DanhSach.cs",
+              "RelativeDocumentMoniker": "QL_MonHoc\\DanhSach.cs",
+              "ToolTip": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_MonHoc\\DanhSach.cs",
+              "RelativeToolTip": "QL_MonHoc\\DanhSach.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:06:56.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonHoc.cs",
+              "DocumentMoniker": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_MonHoc\\MonHoc.cs",
+              "RelativeDocumentMoniker": "QL_MonHoc\\MonHoc.cs",
+              "ToolTip": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_MonHoc\\MonHoc.cs",
+              "RelativeToolTip": "QL_MonHoc\\MonHoc.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:06:56.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Xe.cs",
+              "DocumentMoniker": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_lop\\Xe.cs",
+              "RelativeDocumentMoniker": "QL_XE_lop\\Xe.cs",
+              "ToolTip": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_lop\\Xe.cs",
+              "RelativeToolTip": "QL_XE_lop\\Xe.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:06:56.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhSach.cs",
+              "DocumentMoniker": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_lop\\DanhSach.cs",
+              "RelativeDocumentMoniker": "QL_XE_lop\\DanhSach.cs",
+              "ToolTip": "D:\\CS464S\\QL_XE_lop\\QL_XE_lop\\QL_XE_lop\\DanhSach.cs",
+              "RelativeToolTip": "QL_XE_lop\\DanhSach.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA+wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:06:56.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

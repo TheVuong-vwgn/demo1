@@ -1,0 +1,7 @@
+D:\QL_XE_lop\QL_MonHoc\bin\Debug\QL_MonHoc.exe.config
+D:\QL_XE_lop\QL_MonHoc\bin\Debug\QL_MonHoc.exe
+D:\QL_XE_lop\QL_MonHoc\bin\Debug\QL_MonHoc.pdb
+D:\QL_XE_lop\QL_MonHoc\obj\Debug\QL_MonHoc.csproj.AssemblyReference.cache
+D:\QL_XE_lop\QL_MonHoc\obj\Debug\QL_MonHoc.csproj.CoreCompileInputs.cache
+D:\QL_XE_lop\QL_MonHoc\obj\Debug\QL_MonHoc.exe
+D:\QL_XE_lop\QL_MonHoc\obj\Debug\QL_MonHoc.pdb

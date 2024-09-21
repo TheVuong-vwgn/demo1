@@ -1,0 +1,7 @@
+D:\CS464S\QL_XE_lop\QL_XE_lop\QL_XE_KT\bin\Debug\QL_XE_KT.exe.config
+D:\CS464S\QL_XE_lop\QL_XE_lop\QL_XE_KT\bin\Debug\QL_XE_KT.exe
+D:\CS464S\QL_XE_lop\QL_XE_lop\QL_XE_KT\bin\Debug\QL_XE_KT.pdb
+D:\CS464S\QL_XE_lop\QL_XE_lop\QL_XE_KT\obj\Debug\QL_XE_KT.csproj.AssemblyReference.cache
+D:\CS464S\QL_XE_lop\QL_XE_lop\QL_XE_KT\obj\Debug\QL_XE_KT.csproj.CoreCompileInputs.cache
+D:\CS464S\QL_XE_lop\QL_XE_lop\QL_XE_KT\obj\Debug\QL_XE_KT.exe
+D:\CS464S\QL_XE_lop\QL_XE_lop\QL_XE_KT\obj\Debug\QL_XE_KT.pdb
